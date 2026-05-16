@@ -1,0 +1,16 @@
+﻿evaluation_id,response_id,factuality_score,consistency_score,notes,response_timestamp
+1,1,0.97,0.94,"""Supported by WHO guideline.""","""2026-05-01 10:01:00"""
+2,2,0.95,0.92,"""Consistent with CDC recommendations.""","""2026-05-01 10:06:00"""
+3,3,0.93,0.91,"""Matches NIH diabetes management guidance.""","""2026-05-01 10:11:00"""
+4,4,0.96,0.93,"""Aligned with WHO malaria information.""","""2026-05-01 10:16:00"""
+5,5,0.9,0.88,"""Side effects verified from CDC advisory.""","""2026-05-01 10:21:00"""
+6,6,0.94,0.91,Supported by asthma treatment guidelines.,01-05-2026 10:26
+7,7,0.97,0.95,Aligned with tuberculosis prevention guidance.,01-05-2026 10:31
+8,8,0.93,0.9,Consistent with cardiovascular studies.,01-05-2026 10:36
+9,9,0.92,0.89,Supported by nutrition and obesity research.,01-05-2026 10:41
+10,10,0.98,0.96,Matches stroke emergency recommendations.,01-05-2026 10:46
+11,11,0.9,0.88,Treatment information verified from CDC sources.,01-05-2026 10:51
+12,12,0.89,0.87,Mental health disorders verified from WHO reports.,01-05-2026 10:56
+13,13,0.96,0.94,Public health benefits confirmed through vaccine studies.,01-05-2026 11:01
+14,14,0.88,0.85,Hypertension symptoms consistent with clinical guidance.,01-05-2026 11:06
+15,15,0.93,0.91,Nutrition recommendations align with WHO guidance.,01-05-2026 11:11
